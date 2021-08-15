@@ -10,8 +10,6 @@ Hit <i>/help</i> for more information.</b>
     HELP_MSG = """
 <b>What is a filter bot?;</b>
 
-
-<b>Basic Commands;</b>
 <i>A bot were group admins can set replies for a particular keyword and the bot will automatically send preset replies whenever that keyword enountered in the chat.</i>
 
 /start - <code>Check if I'm alive!</code>

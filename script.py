@@ -2,22 +2,21 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
-
-See <i>/help</i> for commands and more details.</b>
+Im a simple bot which is designed and built for adding unlimited filters in any group
+Hit <i>/help</i> for more information.</b>
 """
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+<b>What is a filter bot?;</b>
 
 
 <b>Basic Commands;</b>
+<i>A bot were group admins can set replies for a particular keyword and the bot will automatically send preset replies whenever that keyword enountered in the chat.</i>
 
-/start - Check if I'm alive!
-/help - Command help
-/about - Something about me!
+/start - <code>Check if I'm alive!</code>
+/help - <code>Command help</code>
+/about -<code>Something about me!</code>
 
 
 <b>Filter Commands;</b>
@@ -48,13 +47,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+@TN_Bots
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : TN Filter Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @TN_Bots    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
